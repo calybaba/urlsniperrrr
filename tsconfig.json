@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["ES2021"],
+    "target": "ES2021",
+    "module": "CommonJS",
+    "outDir": "./lib"
+  },
+  "exclude": []
+}
